@@ -1,7 +1,6 @@
 DarkRP-master By FluxVortex
 ===========================
-Founder List
-^^^^^^^^^^^^
+Founder List:
 ____________
 Founder: FluxVortex
 ____________
