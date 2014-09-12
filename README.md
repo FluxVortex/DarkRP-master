@@ -1,8 +1,6 @@
-DarkRP-master
-=============
-Made By FluxVortex
-=============
-Founder list of Gamemode
-=============
+DarkRP-master By FluxVortex
+===========================
+Founder List
+============
 Founder: FluxVortex
 Co-Founder: Bane
